@@ -1,4 +1,4 @@
 def square(num)
-    return num ** 3
+    return num * num * num
     
 end
